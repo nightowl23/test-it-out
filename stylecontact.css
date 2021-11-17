@@ -10,7 +10,9 @@
 {
     position: relative;
     padding: 100px;
-    background: linear-gradient(#2b1055, #7597de)
+    background: linear-gradient(#2b1055, #7597de);
+    max-width: 960vh;
+    min-height: 100vh;
 }
 .us
 {
