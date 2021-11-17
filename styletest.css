@@ -11,7 +11,8 @@
     position: relative;
     padding: 100px;
     background: linear-gradient(#2b1055, #7597de);
-    height: 100%;
+    max-width: 960vh;
+    min-height: 100vh;
 }
 .title
 {
