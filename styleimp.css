@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" , sans-serif;
+}
+.impacts
+{
+    position: relative;
+    padding: 100px;
+    background: linear-gradient(#2b1055, #7597de)
+}
+.impacts h2
+{
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.impacts p
+{
+    font-size: 1.2em;
+    color: #fff;
+}
+.accepting 
+{
+    font-size: 2em;
+    color: #fff;
+    margin-top: 10px;
+}
+.pros
+{
+    font-size: 1.2em;
+    color: #fff;
+    margin-left: 50px;
+}
+.removed
+{
+    font-size: 2em;
+    color: #fff;
+    margin-top: 10px;
+}
+.blind
+{
+    font-size: 1.2em;
+    color: #fff;
+    margin-left: 50px;
+}
+.there
+{
+    font-size: 2em;
+    color: #fff;
+    margin-top: 10px;
+}
+.optional
+{
+    font-size: 1.2em;
+    color: #fff;
+}

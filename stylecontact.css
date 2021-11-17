@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" , sans-serif;
+}
+.contact
+{
+    position: relative;
+    padding: 100px;
+    background: linear-gradient(#2b1055, #7597de)
+}
+.us
+{
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.free
+{
+    font-size: 1.2em;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.louis
+{
+    font-size: 1.2em;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.anshika
+{
+    font-size: 1.2em;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lcontact
+{
+    font-size: 1em;
+    color: #fff;
+    margin-left: 50px;
+}
+.acontact
+{
+    font-size: 1.2em;
+    color: #fff;
+    margin-left: 50px;
+}
